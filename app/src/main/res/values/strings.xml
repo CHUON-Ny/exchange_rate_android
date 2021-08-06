@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="usd_to_khmer_riels">USD to Khmer Riels</string>
+    <string name="khmer_riels_to_euro">Khmer Riels to Euro</string>
+    <string name="khmer_riels_to_usd">Khmer Riels to USD</string>
+    <string name="euro_to_khmer_riels">Euro to Khmer Riels</string>
+</resources>
